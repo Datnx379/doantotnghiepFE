@@ -16,7 +16,7 @@ import { Link } from "react-router-dom";
 import LockIcon from "@mui/icons-material/Lock";
 import PersonIcon from "@mui/icons-material/Person";
 import "./login.css";
-import logo from "assets/LogoTLU.png";
+import logo from "assets/LogoHUMG.png";
 import { useHistory } from "react-router";
 import { RootState } from "store";
 import { useFormik } from "formik";
